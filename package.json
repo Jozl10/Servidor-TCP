@@ -1,0 +1,11 @@
+{
+  "name": "servidortcp",
+  "version": "1.0.0",
+  "description": "primer servidor tcp",
+  "main": "servidorTCP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus zambrano",
+  "license": "ISC"
+}
